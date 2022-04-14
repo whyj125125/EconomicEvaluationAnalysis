@@ -1,0 +1,13 @@
+Update: 1st March 2019
+Version of function                Changes 
+function PSAprob                   function revised to accomodate use whether or not computational difficulties mentioned in README.txt occur
+function PSAprob_v2                function removed as now redundant
+
+
+
+Date: Date of Publication
+Version of function                Changes 
+function PSAprob                   original function used in tutorial paper
+function PSAprob_v2                updated to accomodate use when none of the computational difficulties mentioned in README.txt occur
+
+

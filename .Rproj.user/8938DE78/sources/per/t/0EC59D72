@@ -1,0 +1,26 @@
+{
+    "id": "0EC59D72",
+    "path": "~/R_projects/EconomicEvaluationAnalysis/R commands.R",
+    "project_path": "R commands.R",
+    "type": "r_source",
+    "hash": "862202069",
+    "contents": "",
+    "dirty": false,
+    "created": 1647935884742.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "83,32",
+        "scrollLine": "57"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649401583,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649401583200,
+    "read_only": false,
+    "read_only_alternatives": []
+}
